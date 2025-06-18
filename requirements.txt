@@ -1,0 +1,7 @@
+google-api-python-client
+google-auth
+google-auth-oauthlib
+python-dotenv
+elevenlabs==2.3.0
+speechrecognition
+pyaudio
