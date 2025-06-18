@@ -6,3 +6,7 @@ credentials.json
 token.json
 token.pkl
 token.pickle
+token.json
+token.pickle
+.env
+__pycache__/
