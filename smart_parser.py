@@ -1,5 +1,3 @@
-# smart_parser.py
-
 from datetime import datetime
 import dateparser
 

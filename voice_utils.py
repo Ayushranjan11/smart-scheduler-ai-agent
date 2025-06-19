@@ -1,14 +1,9 @@
-# voice_utils.py
-
 import pyttsx3
 import speech_recognition as sr
 
-# Initialize TTS engine
 engine = pyttsx3.init()
-
-# Optional: adjust voice rate or volume
-engine.setProperty('rate', 180)     # Speed (default ~200)
-engine.setProperty('volume', 1.0)   # Max volume
+engine.setProperty('rate', 180)     
+engine.setProperty('volume', 1.0)   
 
 def speak(text):
     print(f"🔊 Speaking: {text}")
